@@ -1,16 +1,29 @@
-## Hi there 👋
+# *CSE Python Project*
 
-<!--
-**manhasiddiqui/manhasiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This project contains Python implementations of various mathematical and number-theory functions.  
+It includes basic tasks (factorial, palindrome, digital root), divisor-based functions, prime algorithms, modular arithmetic tools, probabilistic tests, and advanced computational methods.
 
-Here are some ideas to get you started:
+# Features
+- Factorial, palindrome, mean of digits  
+- Digital root, Harshad, pronic, automorphic checks  
+- Prime factors & distinct prime factor count  
+- Abundant, deficient, amicable number checks  
+- Modular exponentiation & modular inverse  
+- Chinese Remainder Theorem solver  
+- Miller–Rabin primality test  
+- Pollard Rho factorization  
+- Collatz sequence length  
+- Lucas sequence generator  
+- Polygonal numbers  
+- Perfect power check  
+- Zeta function approximation  
+- Partition function  
+- Carmichael number check  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies / Tools Used
+- Python 3
+- GitHub
+  
+#*codes*
+- submitted in file
